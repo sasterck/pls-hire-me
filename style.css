@@ -41,6 +41,7 @@ header nav {
 }
 header nav ul li {
     display: inline-block;
+    list-style: circle;
     margin-left: 26px;
 }
 a {
@@ -51,7 +52,6 @@ a {
 header nav ul li a:hover {
     background: var(--primary-color);
     color: var(--secondary-color);
-    border-radius: 15px;
     
 }
 p {
@@ -175,5 +175,10 @@ img {
       justify-content: center;
       display: contents;
       padding: 10px
+    }
+
+    footer {
+        text-align: center;
+
     }
 }
