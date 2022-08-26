@@ -4,6 +4,10 @@ AKA : Round 2 building a portfolio!
 ## Description
 This is the rough start to my portfolio that I will be adding to throughout this course. I wanted to make one that was a little more personal - like adding my picture to the background. Once we complete more projects I will be adding them to the portfolio section. 
 
+## Additional comments
+I tried so hard to get "WHEN I click on the images of the applications
+THEN I am taken to that deployed application." but I couldn't seem to get it right.
+
 ## Badges
 N/A
 
@@ -30,7 +34,7 @@ At this time this project is a solo one.
 Show your appreciation to those who have contributed to the project.
 
 ## License
-For open source projects, say how it is licensed.
+N/A at this time.
 
 ## Project status
 Rotating completion aka this will be continually added to over time. (In progress.)
