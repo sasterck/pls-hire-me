@@ -13,6 +13,9 @@ N/A
 
 ## Visuals
 
+![Screenshot of Page](./images/Screenshot%20(40).png)
+
+[Deployed site] (https://sasterck.github.io/pls-hire-me/)
 
 ## Installation
 N/A - This doesn't have an installation at this time. 
